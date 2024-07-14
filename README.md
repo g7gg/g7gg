@@ -1,6 +1,6 @@
-## Hello
+## Professional key clicker
 
-Lead developer of **Groovy Audio.**
+Lead developer of **[Groovy Audio](https://groovy.audio)**
 
 **You've come across my new account, I unfortunately forgot the password to my old account.**
 Here you will see nothing, since everything I have is private. **Feel free to message me
