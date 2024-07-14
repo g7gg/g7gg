@@ -54,7 +54,7 @@ From: -2016-2017
 *- Role: Solo developer*\
 *- From: 2022 - 2023*
 
-**10.[Groovy Audio](https://groovy.audio) - A super-fast audio player that supports up to 144 audio formats and its own live audio filters and was made with C and Python**
+**10. [Groovy Audio](https://groovy.audio) - A super-fast audio player that supports up to 144 audio formats and its own live audio filters and was made with C and Python**
 -----------
 *- Role: Founder, CEO and solo developer*\
 *- From: 2024 - 2024*
