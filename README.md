@@ -17,12 +17,12 @@ From: -2016-2017
 **2. [NetEye](https://github.com/g7gg) - A CLI network mapping tool for internal network discovery with 223 options and made with C++**
 -
 *- Role: Lead developer*\
-*- From: -2016-2017*
+*- From: 2016-2017*
 
 **3. [Fort Martin](https://github.com/g7gg) - A military fighting game made with C++ and unreal engine**
 -
 *- Role: Lead developer*\
-*- From: -2017-2019*
+*- From: 2017-2019*
 
 **4. [Nitrogen](https://github.com/g7gg) - A CLI encryption program made with python that uses its own symmetric algorithm**
 -
