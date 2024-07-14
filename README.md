@@ -7,43 +7,54 @@ Here you will see nothing, since everything I have is private. **Feel free to me
 on instagram, and I might respond -** @badvibezstate
 
 ## Some big projects I worked on
+\
+**1. Portsunami - A super-fast CLI port flooding tool made with C++.**
+-
+Role: Lead developer\
+From: -2016-2017
 
-**1. Portsunami - A super-fast CLI port flooding tool made with C++.**\
+
+**2. NetEye - A CLI network mapping tool for internal network discovery with 223 options and made with C++**
+-
 *- Role: Lead developer*\
 *- From: -2016-2017*
 
-**2. NetEye - A CLI network mapping tool made with C++ with more than 223 options for network Discovery.**\
-*- Role: Lead developer*\
-*- From: -2016-2017*
-
-**3. Fort Martin - A military fighting game made with C++ and unreal engine**\
+**3. Fort Martin - A military fighting game made with C++ and unreal engine**
+-
 *- Role: Lead developer*\
 *- From: -2017-2019*
 
-**4. Nitrogen - A CLI encryption program made with python that uses its own symmetric algorithm**\
+**4. Nitrogen - A CLI encryption program made with python that uses its own symmetric algorithm**
+-
 *- Role: Solo developer*\
 *- From: 2020 - 2020*
 
-**5. Stealth Spoofer - A hardware spoofer for Windows that was made with C++**\
+**5. Stealth Spoofer - A hardware spoofer for Windows that was made with C++**
+-
 *- Role: Solo developer*\
 *- From: 2020 - 2021*
 
-**6. Pulviq Music - The first Music player and Discord bot to feature live audio filters and was made with Typescript**\
+**6. [Pulviq Music](https://pulviq.io) - The first Music player and Discord bot to feature live audio filters and was made with Typescript**
+-
 *- Role: Founder, CEO and solo developer*\
 *- From: 2020 - 2022*
 
-**7. Daisy - A super-fast wordlist hash-cracker made with C that contains 12 billion password tokens**\
+**7. Daisy - A super-fast wordlist hash-cracker made with C that contains 12 billion password tokens**
+-
 *- Role: Solo developer*\
 *- From: 2021 - 2021*
 
-**8. Blackhole Tools - A project featuring a set of 70 GUI pentesting tools made with C++, C and Python**\
+**8. Blackhole Tools - A project featuring a set of 70 GUI pentesting tools made with C++, C and Python**
+-----------
 *- Role: Founder, CEO and solo developer*\
 *- From: 2021 - 2023*
 
-**9. Opalplayer - A CLI audio player that supports 28 audio formats and background play with librarys required**\
+**9. Opalplayer - A CLI audio player that supports 28 audio formats and background play with librarys required**
+-----------
 *- Role: Solo developer*\
 *- From: 2022 - 2023*
 
-**10. Groovy Audio - A super-fast audio player that supports up to 144 audio formats and its own live audio filters and was made with C and Python**\
+**10.[Groovy Audio](https://groovy.audio) - A super-fast audio player that supports up to 144 audio formats and its own live audio filters and was made with C and Python**
+-----------
 *- Role: Founder, CEO and solo developer*\
 *- From: 2024 - 2024*
