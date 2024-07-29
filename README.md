@@ -2,7 +2,7 @@
 
 Lead developer of **[Groovy Audio](https://github.com/Groovy-Audio)**
 
-**You've come across my new account, I unfortunately forgot the password to my old account.**
+**You've come across my new account, I forgot the password to my old account.**
 Here you'll see nothing, since everything I have is private and I haven't done much on this account. 
 **Feel free to message me on instagram, and I might respond -** @badvibezstate
 
