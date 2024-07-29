@@ -29,7 +29,7 @@ From: -2016-2017
 *- Role: Solo developer*\
 *- From: 2020 - 2020*
 
-**5. [Stealth Spoofer](https://github.com/g7gg) - A hardware spoofer for Windows that was made with C++**
+**5. [Stealth Spoofer](https://github.com/g7gg) - A hardware spoofer for Windows, made with C++**
 -
 *- Role: Solo developer*\
 *- From: 2020 - 2021*
