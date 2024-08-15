@@ -34,7 +34,7 @@ From: -2016-2017
 *- Role: Solo developer*\
 *- From: 2020 - 2021*
 
-**6. [Pulviq Music](https://pulviq.io) - The first Music player and Discord bot to feature live audio filters and was made with Typescript**
+**6. [Pulviq Music](https://pulviq.io) - The first Discord bot to feature live audio filters and was made with Typescript**
 -
 *- Role: Founder, CEO and solo developer*\
 *- From: 2020 - 2022*
