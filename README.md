@@ -10,32 +10,32 @@ Here you'll see nothing, since everything I have is private and I haven't done m
 \
 **1. [Portsunami](https://github.com/g7gg) - A super-fast CLI port flooding tool made with C++.**
 -
-⁷³\
+⁷²\
 Role: Lead developer\
 From: -2016-2017
 
 
 **2. [NetEye](https://github.com/g7gg) - A CLI network mapping tool for internal network discovery with 223 options and made with C++**
 -
-¹⁰⁹\
+¹⁰⁵\
 *- Role: Lead developer*\
 *- From: 2016-2017*
 
 **3. [Fort Martin](https://github.com/g7gg) - A military fighting game made with C++ and unreal engine**
 -
-⁶²
+⁶⁹
 *- Role: Lead developer*\
 *- From: 2017-2019*
 
 **4. [Nitrogen](https://github.com/g7gg) - A CLI encryption program made with python that uses its own symmetric algorithm**
 -
-⁷³\
+₁₁₈\
 *- Role: Solo developer*\
 *- From: 2020 - 2020*
 
 **5. [Stealth Spoofer](https://github.com/g7gg) - A hardware spoofer for Windows, made with C++**
 -
-⁹⁸\
+¹⁰¹\
 *- Role: Solo developer*\
 *- From: 2020 - 2021*
 
@@ -47,24 +47,24 @@ From: -2016-2017
 
 **7. [Daisy](https://github.com/g7gg) - A super-fast wordlist hash-cracker made with C that contains 12 billion password tokens**
 -
-⁹⁷\
+¹²¹\
 *- Role: Solo developer*\
 *- From: 2021 - 2021*
 
 **8. [Blackhole Tools](https://github.com/g7gg) - A project featuring a set of 70 GUI pentesting tools made with C++, C and Python**
 -----------
-¹⁰⁴\
+¹¹¹\
 *- Role: Founder, CEO and solo developer*\
 *- From: 2021 - 2023*
 
 **9. [Opal player](https://github.com/g7gg) - A CLI audio player that supports 28 audio formats and background play with a couple of libraries required**
 -----------
-¹⁰⁵\
+¹¹⁰\
 *- Role: Solo developer*\
 *- From: 2022 - 2023*
 
 **10. [Groovy Audio](https://groovy.audio) - A super-fast audio player that supports up to 144 audio formats and its own live audio filters and was made with C and Python**
 -----------
-¹⁰⁹\
+¹⁰¹\
 *- Role: Founder, CEO and solo developer*\
 *- From: 2024 - 2024*
