@@ -49,7 +49,7 @@ From: -2016-2017
 *- Role: Founder, CEO and solo developer*\
 *- From: 2021 - 2023*
 
-**9. [Opal player](https://github.com/g7gg) - A CLI audio player that supports 28 audio formats and background play with librarys required**
+**9. [Opal player](https://github.com/g7gg) - A CLI audio player that supports 28 audio formats and background play with a couple of libraries required**
 -----------
 *- Role: Solo developer*\
 *- From: 2022 - 2023*
