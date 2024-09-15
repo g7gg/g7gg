@@ -17,7 +17,7 @@ From: -2016-2017
 
 **2. [NetEye](https://github.com/g7gg) - A CLI network mapping tool for internal network discovery with 223 options and made with C++**
 -
-¹⁰⁵ + ³²\
+¹⁰⁵ , ³²\
 *- Role: Lead developer*\
 *- From: 2016-2017*
 
