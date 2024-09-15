@@ -1,4 +1,4 @@
-## I love creating useful things that makes people happy (Professional button presser)
+## I love creating things (Professional button presser)
 
 Lead developer of **[Groovy Audio](https://github.com/Groovy-Audio)**
 
