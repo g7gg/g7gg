@@ -23,43 +23,43 @@ From: -2016-2017
 
 **3. [Fort Martin](https://github.com/g7gg) - A military fighting game made with C++ and unreal engine**
 -
-⁷³\
+⁶²
 *- Role: Lead developer*\
 *- From: 2017-2019*
 
 **4. [Nitrogen](https://github.com/g7gg) - A CLI encryption program made with python that uses its own symmetric algorithm**
 -
-⁹⁸\
+⁷³\
 *- Role: Solo developer*\
 *- From: 2020 - 2020*
 
 **5. [Stealth Spoofer](https://github.com/g7gg) - A hardware spoofer for Windows, made with C++**
 -
-¹¹⁴\
+⁹⁸\
 *- Role: Solo developer*\
 *- From: 2020 - 2021*
 
 **6. [Pulviq Music](https://pulviq.io) - The first Discord bot to feature live audio filters and was made with Typescript**
 -
-⁹⁷\
+¹¹⁴\
 *- Role: Founder, CEO and solo developer*\
 *- From: 2020 - 2022*
 
 **7. [Daisy](https://github.com/g7gg) - A super-fast wordlist hash-cracker made with C that contains 12 billion password tokens**
 -
-¹⁰⁴\
+⁹⁷\
 *- Role: Solo developer*\
 *- From: 2021 - 2021*
 
 **8. [Blackhole Tools](https://github.com/g7gg) - A project featuring a set of 70 GUI pentesting tools made with C++, C and Python**
 -----------
-¹⁰⁵\
+¹⁰⁴\
 *- Role: Founder, CEO and solo developer*\
 *- From: 2021 - 2023*
 
 **9. [Opal player](https://github.com/g7gg) - A CLI audio player that supports 28 audio formats and background play with a couple of libraries required**
 -----------
-¹⁰⁹\
+¹⁰⁵\
 *- Role: Solo developer*\
 *- From: 2022 - 2023*
 
