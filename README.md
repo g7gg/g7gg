@@ -1,4 +1,4 @@
-## I love creating useful things (Professional key clicker)
+## I love creating useful things that makes people happy (Professional key clicker)
 
 Lead developer of **[Groovy Audio](https://github.com/Groovy-Audio)**
 
