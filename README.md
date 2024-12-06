@@ -45,7 +45,7 @@ From: -2016-2017
 *- Role: Founder, CEO and solo developer*\
 *- From: 2020 - 2022*
 
-**7. [Daisy](https://github.com/g7gg) - A super-fast wordlist hash-cracker made with C that contains 12 billion password tokens**
+**7. [Daisy](https://github.com/g7gg) - A super-fast wordlist hash-cracker made with C that contains 12 billion password tokens in it's built-in wordlists**
 -
 ¹²¹\
 *- Role: Solo developer*\
