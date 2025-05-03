@@ -1,5 +1,3 @@
-## I love creating things (Professional button presser)
-
 Lead developer of **[Groovy Audio](https://github.com/Groovy-Audio)**
 
 **You've come across my new account, I forgot the password to my old account.**
