@@ -64,5 +64,5 @@ From: -2016-2017
 **10. [Groovy Audio](https://groovy.audio) - A super-fast audio player that supports up to 144 audio formats and its own live audio filters and was made with C and Python**
 -----------
 ¹⁰¹\
-*- Role: Founder, CEO and solo developer*\
-*- From: 2024 - 2024*
+*- Role: Founder, CEO and CTO*\
+*- From: 2024 - 2025*
