@@ -1,3 +1,5 @@
+![](https://github.com/g7gg/g7gg/blob/main/banner.gif?raw=true)
+
 Lead developer of **[Groovy Audio](https://github.com/Groovy-Audio)**
 
 **You've come across my new account, Big thanks to Microsoft for deleting my old account. Microsoft, you never disappoint at disappointing.**
@@ -13,7 +15,7 @@ Role: Lead developer\
 From: -2016-2017
 
 
-**2. [NetEye](https://github.com/g7gg) - A CLI network mapping tool for internal network discovery with 223 options and made with C++**
+**2. [NetEye](https://github.com/g7gg) - A CLI network mapping tool for internal network discovery with 223 options, made with C++**
 -
 ¹⁰⁵ , ³²\
 *- Role: Lead developer*\
@@ -49,7 +51,7 @@ From: -2016-2017
 *- Role: Solo developer*\
 *- From: 2021 - 2021*
 
-**8. [Blackhole Tools](https://github.com/g7gg) - A project featuring a set of 70 GUI pentesting tools made with C++, C and Python**
+**8. [Blackhole Tools](https://github.com/g7gg) - A project featuring a set of 70 GUI pentesting tools, made with C++, C and Python**
 -----------
 ¹¹¹\
 *- Role: Founder, CEO and solo developer*\
@@ -61,8 +63,8 @@ From: -2016-2017
 *- Role: Solo developer*\
 *- From: 2022 - 2023*
 
-**10. [Groovy Audio](https://groovy.audio) - A super-fast audio player that supports up to 144 audio formats and its own live audio filters and was made with C and Python**
+**10. [Groovy Audio](https://groovy.audio) - An audio player that supports up to 50+ audio formats and its own live audio filters, made with C, C++ and Python**
 -----------
 ¹⁰¹\
-*- Role: Founder, CEO and CTO*\
+*- Role: Founder and CEO*\
 *- From: 2024 - 2025*
