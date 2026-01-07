@@ -61,7 +61,7 @@ Opal Player is a terminal-based audio player supporting 28 audio formats with ba
 
 ---
 
-**10. [Groovy Audio](https://groovy.audio)** | **`2024 – 2025`** | **¹⁰¹**\
+**10. [Groovy Audio](https://groovy.audio)** | **`2024 – 2026`** | **¹⁰¹**\
 Groovy Audio is a cross-platform audio engine supporting 50+ formats with real-time filtering, built using C, C++, and Python. I developed the DSP engine, UI framework, multi-threaded processing pipeline, and filter system. It represents years of engineering fit in a single year, for the cost of getting 3 hours of sleep every day for a year.
 
 ---
